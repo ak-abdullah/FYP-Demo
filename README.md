@@ -54,8 +54,32 @@
 ---
 
 ## 📸 Screenshots
+<h2 align="center">📥 Login</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/login.png?raw=true" alt="Login" width="350" />
+</p>
 
-*(Add screenshots or demo GIFs here showing the interface and pose detection in action)*
+<h2 align="center">📝 Sign Up</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/sign%20up.png?raw=true" alt="Sign Up" width="350" />
+</p>
+
+<h2 align="center">🏠 Homepage</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/homepage.png?raw=true" alt="Homepage" width="350" />
+</p>
+
+<h2 align="center">📝 Form</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/form.png?raw=true" alt="Form" width="350" />
+</p>
+
+<h2 align="center">⚙️ Settings</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/settings.png?raw=true" alt="Settings" width="350" />
+</p>
+
+
 
 ---
 
@@ -64,7 +88,7 @@
 ```bash
 physiogo/
 ├── frontend/            # Flutter app
-├── backend/             # Python + MediaPipe or MoveNet
-├── models/              # Trained models / pose logic
+├── backend/             # Python + MediaPipe
 ├── assets/              # UI assets and icons
-├── README.md            # This file
+├── splash.yaml/         # Splash Screen
+├── pubspec.yaml         # Dependencies
