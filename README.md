@@ -54,12 +54,12 @@
 ---
 
 ## 📸 Screenshots
-<h2 align="center">📥 Login</h2>
+<h2 align="center">📥 Login Screen</h2>
 <p align="center">
   <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/login.png?raw=true" alt="Login" width="350" />
 </p>
 
-<h2 align="center">📝 Sign Up</h2>
+<h2 align="center">📝 Sign Up Screen</h2>
 <p align="center">
   <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/sign%20up.png?raw=true" alt="Sign Up" width="350" />
 </p>
@@ -69,15 +69,20 @@
   <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/homepage.png?raw=true" alt="Homepage" width="350" />
 </p>
 
-<h2 align="center">📝 Form</h2>
+<h2 align="center">📝 Form Screen</h2>
 <p align="center">
   <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/form.png?raw=true" alt="Form" width="350" />
 </p>
 
-<h2 align="center">⚙️ Settings</h2>
+<h2 align="center">⚙️ Settings Screen</h2>
 <p align="center">
   <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/settings.png?raw=true" alt="Settings" width="350" />
 </p>
+<h2 align="center">💬 Chat Screen</h2>
+<p align="center">
+  <img src="https://github.com/ak-abdullah/FYP-Demo/blob/main/images/PatientMessageList.png?raw=true" alt="Settings" width="350" />
+</p>
+
 
 
 
