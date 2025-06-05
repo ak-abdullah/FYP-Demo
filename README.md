@@ -1,4 +1,4 @@
-# PhysioGo – AI-Powered Exercise Tracking for Physiotherapy 💪🤖
+# 📱 PhysioGo – AI-Powered Exercise Tracking for Physiotherapy 💪🤖
 
 **PhysioGo** is an AI-based physiotherapy assistant that tracks and analyzes physical exercises in real-time using human pose estimation. Built using Flutter and Python, PhysioGo enables patients to perform rehab exercises at home while receiving instant posture feedback and progress tracking — promoting faster recovery and better outcomes.
 
@@ -22,13 +22,14 @@
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; align-items: center; gap: 100px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" />
-</div>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" />
 
-## Technologies Used
+
+
+
+## 🧰 Technologies Used
 
 
 
